@@ -45,7 +45,7 @@ E. Regression discontinuity (RD) designs
   
 - E2.	RD extensions: fuzzy RD, spatial RD, RD extrapolation, and more
 
-F. Miscellaneous topics: Models with multiplicative effects; Poisson regression; More on statistical inference
+F. Miscellaneous topics: Models with multiplicative effects and Poisson regression; More on statistical inference
 
 --
 
