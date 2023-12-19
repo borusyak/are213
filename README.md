@@ -1,5 +1,5 @@
 # ARE213 PhD Applied Econometrics
-Taught by me, Kirill Borusyak, at UC Berkeley's Department of Agricultural and Resource Economics, Fall 2023
+Taught by me, [Kirill Borusyak](https://sites.google.com/view/borusyak/), at UC Berkeley's Department of Agricultural and Resource Economics, Fall 2023
 
 Please email me at [k.borusyak@berkeley.edu](mailto:k.borusyak@berkeley.edu) if you notice typos, mistakes, or have other suggestions for how to improve the course.
 
