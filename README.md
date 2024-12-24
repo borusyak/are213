@@ -1,5 +1,5 @@
 # ARE213 PhD Applied Econometrics
-Taught by me, [Kirill Borusyak](https://sites.google.com/view/borusyak/), at UC Berkeley's Department of Agricultural and Resource Economics, Fall 2023
+Taught by me, [Kirill Borusyak](https://sites.google.com/view/borusyak/), at UC Berkeley's Department of Agricultural and Resource Economics, Fall 2024
 
 Please email me at [k.borusyak@berkeley.edu](mailto:k.borusyak@berkeley.edu) if you notice typos, mistakes, or have other suggestions for how to improve the course.
 
@@ -35,9 +35,9 @@ D. Instrumental variables (IVs)
   
 - D2.	IV with heterogeneous effects
   
-- D3.	Shift-share IV and formula instruments
+- D3.	Formula instruments, recentering, spillovers, shift-share IV
   
-- D4.	Examiner designs (“judge IVs”). (+A bit on control functions)
+- D4.	Examiner designs (“judge IVs”)
 
 E. Regression discontinuity (RD) designs 
 
